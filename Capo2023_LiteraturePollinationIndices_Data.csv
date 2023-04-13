@@ -1,0 +1,35 @@
+Strategy;Species;Pollen_limitation;Inbreeding_cumulative
+Sexual;Caladenia tentaculata;0.71;-0.004071
+Rewarding;Catasetum viridiflavum;0.874739;0.328274
+Food-deceptive;Cleistes divaricata;0.421;0.280899
+Food-deceptive;Dactylorhiza sambucina;0.91727;0.407101
+Sexual;Disa atricapilla;0.353;0.131996
+Food-deceptive;Disa ferruginea;0.305;0.578704
+Food-deceptive;Diuris maculata;0.81;-0.146341
+Food-deceptive;Epidendrum ciliare;0.917647;-0.090613
+Food-deceptive;Goodyera oblongifolia;0.516304;0.275362
+Food-deceptive;Goodyera repens var. ophioides ;0.503;0.501102
+Food-deceptive;Goodyera tesselata;0.59;0.042025
+Food-deceptive;Ionopsis utricularioides;0.931996;0.011148
+Sexual;Leporella fimbriata;0.822;0.194
+Rewarding;Listera cordata;0.549;0.06051
+Rewarding;Listera ovata;0.99;0.085977
+Food-deceptive;Orchis mascula;0.922;0.203728
+Food-deceptive;Orchis morio;0.798;0.741761
+Food-deceptive;Orchis spitzelii;0.796;0.409666
+Rewarding;Platanthera bifolia;0.406;0.47981
+Rewarding;Platanthera chlorantha;0.482;0.67483
+Rewarding;Platanthera ciliaris;0.667479;0.138983
+Rewarding;Platanthera lacera;0.26875;-0.351285
+Rewarding;Satyrium bicorne;0.153;0.798487
+Rewarding;Satyrium coriifolium;0.582;0.553354
+Rewarding;Satyrium erectum;0.318;0.749568
+Shelter;Serapias cordigera;0.105718;0.807597
+Shelter;Serapias vomeracea;0.83547;0.786528
+Food-deceptive;Xylobium squalens;0.7;0.159612
+Spontaneous selfing;Nervilia nipponica;0.164706;0.035294
+Spontaneous selfing;Pogonia minor;-0.02;0.011777
+Spontaneous selfing;Liparis kumokiri;0.2836;0.007496
+Spontaneous selfing;Cymbidium macrorhizon;0.202035;-0.124881
+Spontaneous selfing;Cymbidium aberrrans;0.324;0.157646
+Spontaneous selfing;Cymbidium lancifolium;0.252;0.099366
